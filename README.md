@@ -1,19 +1,21 @@
 # challenge_Critical-illness-and-psychiatric-disease
-Assess psychiatric disease prevalence before and after critical illness.
+Assess psychiatric disease prevalence before and after critical illness
+
 http://datathon.konect.or.kr/
+
 2019년 9월 20일(금) ~ 22일(일)
 
-## Background:
+## Background
 
 The relationship between psychiatric disease
 and critical illness is elusive.
 
-## Purpose:
+## Purpose
 
 To assess psychiatric disease prevalence before
 and after critical illness.
 
-## Dataset and Participants:
+## Dataset and Participants
 
 AUSOM dataset
 
@@ -21,7 +23,7 @@ Critical illness patients (cases) vs.
 
 General hospitalized patients (controls)
 
-## Main measures:
+## Main measures
 
 Pre-ICU : 
 
@@ -37,9 +39,6 @@ incidence of psychiatric disease
 
 - Cox proportional hazards model
 
-## Expected outcomes:
+## Expected outcomes
 
-Higher psychiatric disease prevalence before
-and after critical illness
-
-(compared to general patients)
+Higher psychiatric disease prevalence before and after critical illness compared to general patients
